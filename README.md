@@ -5,3 +5,5 @@
 Para instalar el programa se requiere:
 
 ```npm install react```
+
+Sistema de registro 2.
